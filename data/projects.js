@@ -17,6 +17,7 @@ const projects = [
     descripcionLarga:
       'Página web personal construida con HTML, CSS y JavaScript, totalmente adaptable a móviles y con formulario de contacto.',
     tecnologias: ['HTML', 'CSS', 'JavaScript'],
+    
   },
   {
     id: '3',
