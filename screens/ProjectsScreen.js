@@ -23,7 +23,7 @@ export default function ProjectsScreen({ navigation }) {
 const styles = StyleSheet.create({
   contenedor: {
     flex: 1,
-    backgroundColor: '#f2f2f7',
-    paddingTop: 10,
+    backgroundColor: '#5A2A10',
+    paddingTop: 12,
   },
 });
