@@ -30,7 +30,7 @@ App.js → configuración de navegación y tema
 
 1. Clonar el repositorio:
 ```bash
-   git clone [URL_DE_TU_REPOSITORIO]
+   git clone https://github.com/jonathannaranjo600-eng/Proyecto1movil.git
    cd Proyecto1_jonathan_naranjo
 ```
 2. Instalar dependencias:
